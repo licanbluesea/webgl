@@ -1,0 +1,10 @@
+import "./styles.css";
+import test from "./test";
+// import "./clickPoint";
+// import "./colorPoints";
+// import "./multiPoint";
+// import "./helloTriangle";
+// import "./translatedTriangle";
+// import "./rotatedTriangle";
+import "./rotatingTriangle";
+test();
